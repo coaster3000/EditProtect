@@ -1,0 +1,5 @@
+name: EditProtect
+version: ${project.version}
+main: com.github.coaster3000.editprotect.EditProtect
+author: Chris (@coaster3000)
+depend: [WorldGuard,WorldEdit]
